@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    display: flex;
+
+    .card {
+        margin: 20px auto;
+        width: 200px;
+
+        mat-card {
+            width: 50%;
+            border: 1px solid #ddd;
+        }
+    }
+    
+}
